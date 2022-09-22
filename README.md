@@ -1,1 +1,132 @@
-# goit-markup-hw-01
+<!DOCTYPE html>
+<html lang="uk">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>WebStudio</title>
+  </head>
+
+  <body>
+    <header>
+      <nav>
+        <ul>
+          <li>
+            <a href="./idex.html ">WebStudio</a>
+          </li>
+
+          <li>
+            <a href="#">Студія</a>
+          </li>
+          <li>
+            <a href="#">Портфоліо</a>
+          </li>
+          <li>
+            <a href="#">Контакти</a>
+          </li>
+        </ul>
+        <ul>
+          <li>
+            <a href="#">info@devstudio.com</a>
+          </li>
+          <li>
+            <a href="#">+38 096 111 11 11</a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <section>
+        <h1>Ефективні рішення для вашого бізнесу</h1>
+        <button type="button">Замовити послугу</button>
+      </section>
+      <section>
+        <h2>Наші переваги</h2>
+        <h3>Увага до дітей</h3>
+        <p>Ідейні міркування, і навіть початок повсякденної роботи з формування позиції.</p>
+        <h3>Пунктуальність</h3>
+        <p>Завдання організації, особливо рамки і місце навчання кадрів тягне у себе.</p>
+        <h3>Планування</h3>
+        <p>Так само консультація з широким активом значною мірою зумовлює.</p>
+        <h3>Сучасні технології</h3>
+        <p>Значимість цих проблем настільки очевидна, що реалізація планових завдань.</p>
+      </section>
+      <section>
+        <h2>Чим ми займаємося</h2>
+        <ul>
+          <li>
+            <img
+              src="./images/img1.jpg"
+              alt="Людина пише код на планшеті з клавіатури"
+              width="370"
+            />
+          </li>
+          <li>
+            <img
+              src="./images/img2.jpg"
+              alt="Людина розробляє макет телефона на комп'ютері"
+              width="370"
+            />
+          </li>
+          <li>
+            <img src="./images/img3.jpg" alt="Людина працює на планшеті" width="370" />
+          </li>
+        </ul>
+      </section>
+      <section>
+        <h2>Наша команда</h2>
+        <ul>
+          <li>
+            <h3>Ігор Дем'яненко</h3>
+            <p>Product Designer</p>
+            <img
+              src="./images/img4.jpg"
+              alt="Чоловік в коричневій сорочці посміхається"
+              width="270"
+            />
+          </li>
+          <li>
+            <h3>Ольга Рєпіна</h3>
+            <p>Frontend Developer</p>
+            <img src="./images/img5.jpg" alt="Дівчина блондинка посміхається" width="270" />
+          </li>
+          <li>
+            <h3>Микола Тарасов</h3>
+            <p>Marketing</p>
+            <img src="./images/img6.jpg" alt="Чоловік в білій сорочці посміхається" width="270" />
+          </li>
+          <li>
+            <h3>Михайло Єрмаков</h3>
+            <p>UI Designer</p>
+            <img
+              src="./images/img7.jpg"
+              alt="Чоловік в чорній сорочці склав руки перед собою "
+              width="270"
+            />
+          </li>
+        </ul>
+      </section>
+    </main>
+    <footer>
+      <a href="./idex.html ">WebStudio</a>
+      <address>
+        <ul>
+          <li>
+            <a
+              href="https://goo.gl/maps/CPtrU1FHBa2aNyZL9"
+              target="_blank"
+              rel="noopener noreferrer nofollow"
+              >м. Київ, пр-т Лесі Українки, 26</a
+            >
+          </li>
+          <li>
+            <a href="#">info@devstudio.com</a>
+          </li>
+          <li>
+            <a href="#">+38 096 111 11 11</a>
+          </li>
+        </ul>
+      </address>
+    </footer>
+  </body>
+</html>
